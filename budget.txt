@@ -1,4 +1,0 @@
-Monthly Budget
-Income: 50000 DA
-Expenses: 30000 DA
-Savings: 20000 DA
